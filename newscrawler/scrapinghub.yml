@@ -1,0 +1,5 @@
+project: 326578
+API key: 05c1ff9fdbae403d8386ea8cfef1534a
+stacks:
+    default: scrapy:1.1-py3
+requirements_file: requirements.txt
